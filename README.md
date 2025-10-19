@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Pranto Baidya -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00C6FF,007BFF,00FFA3&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+Pranto+Baidya;A+Passionate+Flutter+Developer;Crafting+Clean+%26+Beautiful+Apps;Welcome+to+My+Creative+Space!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00C9A7,92FE9D,00F5A0&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+Pranto+Baidya;A+Passionate+Flutter+Developer;Crafting+Clean+%26+Beautiful+Apps;Welcome+to+My+Creative+Space!">
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=+Flutter%20Developer+%7C+Mobile+App+Enthusiast+%7C+Tech%20Explorer&fontAlign=50&fontAlignY=50&fontSize=25&animation=twinkling"/> </p>
