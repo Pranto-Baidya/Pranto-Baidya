@@ -27,7 +27,7 @@ Turning real-world problems into elegant digital solutions — one app at a time
 ## Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,git,github,androidstudio,vscode,figma,postman,sqlite,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=dart,javascript,flutter,firebase,github,androidstudio,vscode,figma,postman,nodejs,expressjs,mongodb&perline=6" />
 </p>
 
 ---
