@@ -35,10 +35,10 @@ Turning real-world problems into elegant digital solutions — one app at a time
 ## Featured Projects  
 | Project | Description | Link |
 |------------|----------------|--------|
+| **MoneyMate** | Flutter + SQLite money management app | [View Repo](https://github.com/Pranto-Baidya/Task-Manager-With-Getx) |
 | **WallEdge** | A Flutter wallpaper app powered by the Pexels API | [View Repo](https://github.com/Pranto-Baidya/WallEdge_Flutter-Wallpaper-App) |
 | **InstaNews Pro** | Real-time news app with modern UI | [View Repo](https://github.com/Pranto-Baidya/InstaNews_Pro) |
-| **MindFlow** | A mood tracking app for mindfulness | [View Repo](https://github.com/Pranto-Baidya/mindflow_mood_tracker_app) |
-| **Task Manager** | Flutter + GetX task management app | [View Repo](https://github.com/Pranto-Baidya/Task-Manager-With-Getx) |
+| **MindFlow** | A mood tracking app using Firebase | [View Repo](https://github.com/Pranto-Baidya/mindflow_mood_tracker_app) |
 | **Firebase Notes App** | Cloud-synced notes using Firebase | [View Repo](https://github.com/Pranto-Baidya/firebase_note_app) |
 
 ---
